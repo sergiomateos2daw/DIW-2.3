@@ -12,6 +12,7 @@ img{
 }
 em{
     text-decoration: underline;
+    text-transform: capitalize;
 }
 a{
     text-decoration: none;
